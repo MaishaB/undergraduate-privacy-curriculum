@@ -9,8 +9,8 @@ Requested Badge: **Available**
 This artifact contains the full set of educational materials supporting our PETS 2025 paper. It includes:
 
 - Lecture slides
-- Programming Excercises related to PETs lectures
-- Assesments: optional exercises, mid-semester test (MST), assignment and the final exam
+- Programming Exercises related to PETs lectures
+- Assessments: optional exercises, mid-semester test (MST), assignment and the final exam
 
 These materials align with the proposed curriculum described in the paper and demonstrate how core PETs concepts can be taught through hands-on exercises.
 
