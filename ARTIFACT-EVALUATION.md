@@ -3,7 +3,7 @@ Paper title: **“Do It to Know It”: Reshaping the Privacy Mindset of Computer
 
 Artifacts HotCRP Id: **#15**
 
-Requested Badge: Either **Available**
+Requested Badge: **Available**
 
 ## Description
 This artifact contains the full set of educational materials supporting our PETS 2025 paper. It includes:
