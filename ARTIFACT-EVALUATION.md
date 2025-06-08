@@ -34,4 +34,5 @@ The programming excercises and the assignment questions should run in a matter o
 Please see README.md for details on how to set up and run programming excercises in Jupyter notebooks.
 
 ### Accessibility (All badges)
-The artifact can be accessed at the following link: https://github.com/MaishaB/undergraduate-privacy-curriculum.
+- The artifact can be accessed at the following link: https://github.com/MaishaB/undergraduate-privacy-curriculum.
+- Commit Branch: `main`
