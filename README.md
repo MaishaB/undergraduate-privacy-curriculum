@@ -25,3 +25,11 @@ The Anaconda package includes Jupyter Notebook and JupyterLab. Installation inst
   menu and run `jupyter notebook` for Notebook or `jupyter lab` for JupyterLab
   
 - MacOS / Linux: Launch a terminal and run the `jupyter notebook` for Notebook or `jupyter lab` for JupyterLab
+
+## License
+This repository uses **two licenses**:
+
+- **MIT License** for source code and programming exercises. See [LICENSE](./LICENSE).
+- **Creative Commons Attribution 4.0 (CC BY 4.0)** for other educational materials (e.g., slides). See [LICENSE-DOC](./LICENSE-DOC).
+
+You are free to use, adapt, and redistribute these materials with proper attribution.
