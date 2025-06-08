@@ -15,7 +15,7 @@ This artifact contains the full set of educational materials supporting our PETS
 These materials align with the proposed curriculum described in the paper and demonstrate how core PETs concepts can be taught through hands-on exercises.
 
 ### Security/Privacy Issues and Ethical Concerns
-There are no security or privacy concerns. The artifact does not contain sensitive data, malware, or require disabling any system protections.
+There are no security or privacy concerns. The artifact does not contain sensitive data, malware, nor require disabling any system protections.
 
 ## Basic Requirements
 
