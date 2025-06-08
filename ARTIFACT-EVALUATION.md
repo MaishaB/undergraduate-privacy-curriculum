@@ -12,7 +12,7 @@ This artifact contains the full set of educational materials supporting our PETS
 - Programming Excercises related to PETs lectures
 - Assesments: optional exercises, mid-semester test (MST), assignment and the final exam
 
-These materials align with the proposed curriculum described in the paper and demonstrate how core PETs concepts can be taught through hands-on exercises and assessments.
+These materials align with the proposed curriculum described in the paper and demonstrate how core PETs concepts can be taught through hands-on exercises.
 
 ### Security/Privacy Issues and Ethical Concerns
 There are no security or privacy concerns. The artifact does not contain sensitive data, malware, or require disabling any system protections.
@@ -31,7 +31,7 @@ No special hardware requirements, just a laptop/computer.
 The programming excercises and the assignment questions should run in a matter of seconds.
 
 ## Environment 
-Please see README.md for details on how to set up and run the code.
+Please see README.md for details on how to set up and run programming excercises in Jupyter notebooks.
 
 ### Accessibility (All badges)
 The artifact can be accessed at the following link: https://github.com/MaishaB/undergraduate-privacy-curriculum.
