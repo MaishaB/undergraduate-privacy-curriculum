@@ -15,7 +15,7 @@ The lessons in the curriculum guides students in understanding the need for priv
 All programming excercises related to lessons 4 and 5 were conducted in Jupyter. These excercises are available in the "Programming Exercises" folder. The datasets required for these excercises are also included in the folder. Use Jupyter Notebook or JupyterLab to run the provided notebooks. 
 
 ## Assessments
-This curriculum uses four types of assessments to evaluate the learning outcomes: optional exercises, mid-semester test (MST), assignment and the final exam. The assignemnt can be opened using Jupyter Notebook or JupyterLab.
+This curriculum uses four types of assessments to evaluate the learning outcomes: optional exercises, mid-semester test (MST), assignment and the final exam. The assignemnt can be opened using Jupyter Notebook or JupyterLab. This repository includes assessment questions only. For answers or guidance, kindly reach out to the authors.
 
 ## Install Anaconda
 The Anaconda package includes Jupyter Notebook and JupyterLab. Installation instructions are available in : [Click here](https://docs.anaconda.com/anaconda/install).
